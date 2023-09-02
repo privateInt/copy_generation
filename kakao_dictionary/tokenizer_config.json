@@ -1,0 +1,10 @@
+{
+  "bos_token": "[BOS]",
+  "eos_token": "[EOS]",
+  "mask_token": "[MASK]",
+  "name_or_path": "kakaobrain/kogpt",
+  "pad_token": "[PAD]",
+  "special_tokens_map_file": null,
+  "tokenizer_class": "PreTrainedTokenizerFast",
+  "unk_token": "[UNK]"
+}
